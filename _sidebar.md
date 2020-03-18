@@ -1,5 +1,1 @@
-* [官方网站](https://www.iqudoo.com)
-* [开放平台](https://open.iqudoo.com)
-* [接入指南](README)
-* [接口文档](Api.md)
-* [更新日志](Log.md)
+* [README](README)
